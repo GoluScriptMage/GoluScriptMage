@@ -1,4 +1,4 @@
-# Hello, I'm GoluScriptMage 👋
+# Hello, I'm Golu 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;Node.js+%26+React+Expert" alt="Typing SVG" />
@@ -6,7 +6,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer focused on creating efficient and scalable web applications. I enjoy solving complex problems and turning ideas into reality through elegant code. My journey in tech is driven by continuous learning and applying cutting-edge technologies.
+I'm just trying to learn some code stuff 
+Why is that u think?
+Because after i got phone and internet i was interested and passoinate to learn it but didn't have desktop 
+SO after i got it I tried at 17 then i failed two times bcz of some reasons and mostly my excuses 😅
+So final verdict - I will try my best to keep consistent and learn to code 
+I have also started logging my day - DailyLog (Repo)
 
 <p align="center">
   <a href="https://github.com/GoluScriptMage?tab=followers">
