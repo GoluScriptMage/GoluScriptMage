@@ -52,6 +52,10 @@ I have also started logging my day - DailyLog (Repo)
 </p>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
