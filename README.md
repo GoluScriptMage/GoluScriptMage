@@ -56,7 +56,8 @@ I have also started logging my day - DailyLog (Repo)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GoluScriptMage&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoluScriptMage&theme=tokyonight" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=GoluScriptMage&theme=tokyonight" alt="GitHub Streak" height="170" />
+  
 </div>
 
 <div align="center">
