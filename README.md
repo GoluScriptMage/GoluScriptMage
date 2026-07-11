@@ -4,8 +4,9 @@
 | (_ | () | () || |_| |    | |) || _| \ ' / 
  \___|\__/ \__/  \___/     |___/ |___| \_/  
 =============================================
-> nexus: https://golu.dev | status: online
 ```
+> nexus: https://golu.dev | status: online
+
 
 ---
 
@@ -51,4 +52,4 @@
 ## 🔮 Next Phase & Collaboration
 *   🚀 Currently on a backend grind to become undeniable.
 *   🤝 Open for backend/systems engineering opportunities, open-source contributions, and high-performance systems collaboration.
-*   🔗 Portfolio: [golu.dev](https://golu.dev) | LinkedIn: [Chitranshu Dhakad](https://linkedin.com/in/golu-dhakad) | Twitter: [@TheWebGolu](https://twitter.com/TheWebGolu)
+*   🔗 Portfolio: [golu.dev](https://golu.dev) | LinkedIn: [Chitranshu Dhakad](https://www.linkedin.com/in/chitranshu-dhakad-96a1753a1/) | Twitter: [@TheWebGolu](https://twitter.com/TheWebGolu)
