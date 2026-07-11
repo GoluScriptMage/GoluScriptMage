@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Yo,%20I'm%20Golu!%20👋&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20in%20Training%20|%20Ex-Procrastinator%20|%20TCP/IP%20Tinkerer&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Yo,%20I'm%20Golu!%20👋&fontSize=50&fontAlignY=35&desc=Backend%20&%20Systems%20Engineer%20in%20Training%20|%20golu.dev&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&lines=Building+Raw+TCP+Servers...;Learning+System+Design...;Grinding+Data+Structures...;Becoming+Undeniable+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&lines=Building+Raw+TCP+Servers...;Orchestrating+Docker+Networks...;Writing+Custom+VCS+Engines...;Becoming+Undeniable+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 The Lore (About Me)
+## 👨💻 The Lore (About Me)
 
 **"Better late than never."** 🐢💨
 
@@ -29,11 +29,24 @@ I didn't grow up with a laptop in my crib. I actually got into this game a bit l
 When I was 17, I tried to code. **I failed.** (Distractions, excuses, you know the vibe).
 
 But after getting my own machine and internet? **It's game over.** 😈
-Now I'm making up for lost time by learning the *hard* stuff first. I don't just use Express; I build HTTP servers from scratch using `net` sockets to understand the plumbing.
+Now I'm making up for lost time by learning the *hard* stuff first. I don't just write simple API wrappers; I build HTTP servers from scratch using raw `net` sockets, write my own Git engines to understand plumbing, and implement RESP parsers to check TCP stream fragmentation.
+
+```text
+┌────────────────────────────────────────────────────────┐
+│  $ ssh golu@golu.dev                                   │
+│  Connecting to backend core...                         │
+│  [OK] TCP Sockets connected.                           │
+│  [OK] RESP Parser initialized.                         │
+│  [OK] Node.js Streams piping...                        │
+│                                                        │
+│  "Abstractions are cool, but raw network sockets       │
+│   and byte streams make me feel alive."                │
+└────────────────────────────────────────────────────────┘
+```
 
 **Current Status:**
-- 🔭 **Building:** A private S3 Cloud Storage clone (Node.js Streams).
-- 🧠 **Grinding:** DSA (Linked Lists are falling one by one).
+- 🔭 **Building:** A multi-tenant Webhook Relayer & Tunnel SaaS (custom TCP routing, dynamic Docker bridges).
+- 🧠 **Grinding:** DSA (Linked Lists and Monotonic Stacks are falling one by one).
 - ⚡ **Fun Fact:** I once crashed my own OS by opening 1 million TCP connections. It was awesome.
 
 > Check my daily progress logs here: [**Daily-logs Repo**](https://github.com/GoluScriptMage/Daily-logs)
@@ -44,9 +57,9 @@ Now I'm making up for lost time by learning the *hard* stuff first. I don't just
 
 <div align="center">
 
-| **Core** | **Backend** | **Database** | **Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,cpp" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" /> | <img src="https://skillicons.dev/icons?i=mongo,redis,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman" /> |
+| **Languages** | **Backend & Systems** | **Frontend & UI** | **Database** | **Tools** |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=ts,js,cpp" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=postgres,redis,mongo,mysql" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman" /> |
 
 </div>
 
@@ -56,16 +69,13 @@ Now I'm making up for lost time by learning the *hard* stuff first. I don't just
 
 ---
 
-## 🐍 The Contribution Snake
-*(This eats my commits every day!)*
+## 🚀 Featured Projects
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoluScriptMage/GoluScriptMage/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoluScriptMage/GoluScriptMage/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GoluScriptMage/GoluScriptMage/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+*   📂 [**git-lite**](https://github.com/GoluScriptMage/git-lite): A custom Git-like version control engine built in TypeScript that serializes directory structures into Merkle trees and handles local object hashing.
+*   📂 [**proto-redis**](https://github.com/GoluScriptMage/proto-redis): An in-memory TCP socket cache database implementing a custom RESP parser to handle network stream fragmentation and keys eviction.
+*   📂 [**video-streamer**](https://github.com/GoluScriptMage/video-streamer): A media streaming server that dynamically segments videos on-the-fly using JIT FFmpeg processes and secures them with AES-128 encryption.
+*   📂 [**sync-cli**](https://github.com/GoluScriptMage/sync-cli): A developer workspace CLI that tracks local git commit diffs and automatically documents codebase architecture updates using the Gemini LLM API.
+*   📂 [**nostalgia-playground**](https://github.com/GoluScriptMage/nostalgia-playground): A consolidated historical repository preserving 9 early project milestones with complete git history timelines from 2023-2025.
 
 ---
 
@@ -84,21 +94,6 @@ Now I'm making up for lost time by learning the *hard* stuff first. I don't just
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoluScriptMage&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/GoluScriptMage/natours-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoluScriptMage&repo=natours-backend&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/GoluScriptMage/personal-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoluScriptMage&repo=personal-tracker&theme=radical&hide_border=true" />
-  </a>
-
 </div>
 
 ---
