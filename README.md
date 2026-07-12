@@ -42,9 +42,10 @@
 *An in-memory TCP socket cache database mimicking Redis server specifications.*
 *   Implements a custom RESP parser to handle TCP stream packet fragmentation, command pipelining, and keys eviction.
 
-### 📂 [sync-cli](https://github.com/GoluScriptMage/sync-cli)
+### 📂 [sync-cli](https://github.com/GoluScriptMage/sync-cli) (Published on [NPM](https://www.npmjs.com/package/goluscriptmage-sync-cli)!)
 *An AI-powered local documentation synchronizer CLI utility.*
 *   Watches local git diff change events and interfaces directly with the Google Gemini LLM API to write codebase architecture updates to system README files.
+
 
 ---
 
