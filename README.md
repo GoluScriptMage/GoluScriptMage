@@ -2,11 +2,10 @@
   ___  __   __   _   _  //  ___   ___ _   _
  / __|/  \ /  \ | | | |    |   \ | __| \ / /
 | (_ | () | () || |_| |    | |) || _| \ ' / 
- \___|\__/ \__/  \___/     |___/ |___| \_/  
+ \___|\__/ \__/  \___/     |___/ |___| \_/
 =============================================
 ```
 > nexus: https://golu.dev | status: online
-
 
 ---
 
@@ -15,6 +14,7 @@
 *   **Plumbing First:** I build raw TCP socket servers, custom database engines, and VCS systems from scratch to learn the physics of software.
 *   **Late Starter, Fast Run:** Got into the game a bit late at 17, now grinding the hard stuff first.
 *   **Core Focus:** Systems engineering, network protocols, and high-performance runtimes.
+*   **Current Projects:** Actively building **goport-scan** and **aerocloud** right now, alongside my other systems-focused work.
 
 ---
 
@@ -46,7 +46,6 @@
 ### 📂 [sync-cli](https://github.com/GoluScriptMage/sync-cli) (Published on [NPM](https://www.npmjs.com/package/goluscriptmage-sync-cli)!)
 *An AI-powered local documentation synchronizer CLI utility.*
 *   Watches local git diff change events and interfaces directly with the Google Gemini LLM API to write codebase architecture updates to system README files.
-
 
 ---
 
