@@ -59,9 +59,10 @@
 ### 🔬 Core Toolchain & Invariants
 
 ```text
-Languages      : Go, TypeScript, C (exploring low-level runtimes)
-Infrastructure : Linux (cgroups, namespaces), Docker, Raw TCP/IP, Sockets
+Languages      : Go, TypeScript, JavaScript
+Systems & Infra: Linux (cgroups, namespaces), Docker, Raw TCP/IP, Sockets
 Data & State   : SQLite (WAL mode), Redis (RESP), PostgreSQL
+Full-Stack UI  : React, Next.js, TailwindCSS (for developer dashboards & web tools)
 Approach       : Profile before optimizing. Understand memory layouts. Build from first principles.
 ```
 
