@@ -62,7 +62,7 @@
 Languages      : Go, TypeScript, C (exploring low-level runtimes)
 Infrastructure : Linux (cgroups, namespaces), Docker, Raw TCP/IP, Sockets
 Data & State   : SQLite (WAL mode), Redis (RESP), PostgreSQL
-Mental Model   : Benchmark everything. Zero closure heap escapes in Go. Memory-conscious by default.
+Approach       : Profile before optimizing. Understand memory layouts. Build from first principles.
 ```
 
 ---
